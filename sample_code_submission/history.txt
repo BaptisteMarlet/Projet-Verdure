@@ -1,0 +1,11 @@
+2018-03-18 14:57:51.536375, regressor : GradientBoostingRegressor
+0. (PolynomialFeatures) : 0.828318629872
+1. (RobustScaler, PolynomialFeatures) : 0.826406746612
+2. (StandardScaler, PolynomialFeatures) : 0.824256569309
+3. () : 0.812964233701
+4. (RobustScaler, QuantileTransformer, PolynomialFeatures) : 0.807870427271
+5. (MaxAbsScaler, PolynomialFeatures) : 0.780121693091
+6. (MinMaxScaler, PolynomialFeatures) : 0.569341751144
+
+--------------------------------------------------
+
